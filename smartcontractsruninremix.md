@@ -1,3 +1,5 @@
+
+//No need to deploy contract it is aldready deployed in the test net and all the connections are make in the front end and backend to that smartcontract address so  just run frontend and back end 
 //BRIDGECONTRCT
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
